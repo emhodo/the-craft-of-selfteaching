@@ -6,5 +6,5 @@
 `
 for i in range (2,100):
 
-
    `
+下载anaconda，打开jupyterlab，编写ipynb文件再上传最高效。
